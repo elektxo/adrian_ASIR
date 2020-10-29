@@ -1,0 +1,9 @@
+<derivacion>
+    <fecha>30.05.00</fecha>
+    <remitentedelpaciente>
+        <nombre>J.J.C.</nombre>
+        <historial>334455</historial>
+    </remitentedelpaciente>
+    <patologia>Neumologia</patologia>
+    <sintomas>Bronquitis aguda con broncoespasmos</sintomas>
+</derivacion>

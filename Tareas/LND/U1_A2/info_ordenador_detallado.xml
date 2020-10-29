@@ -1,0 +1,33 @@
+<pc>
+    <sistemaoperativo>
+        <version>Windows 10</verion>
+        <edicion>PRO</edicion>
+    </sistemaoperativo>
+    <discoduro>
+        <fabricante>Western digital</fabricante>
+        <modelo>Green M.2 240gb</modelo>         
+    </discoduro>
+    <ram>
+        <fabricante>Kington</fabricante>
+        <modelo>8gb DDR4 2133mhz</modelo>     
+    </ram>
+    <cpu>
+        <fabricante>AMD</fabricante>
+        <modelo>Ryzen 5 1600</modelo>
+    </cpu>
+    <gpu>
+        <fabricante>Asus</fabricante>
+        <familiadegrafica>Nvidia</familiadegrafica>
+        <modelo>Gtx 1050 2gb OC</modelo>
+    </gpu>
+    <placabase>
+        <fabricante>Asrock</fabricante>
+        <modelo>B350M PRO 4</modelo>
+    </placabase>
+    <fuentedealimentacion>
+        <fabricante>Mars Gaming</fabricante>
+        <modelo>MPII650</modelo>
+        <vatios>650W</vatios>
+        <certificación>Plus Bronce</certificación>
+    </fuentedealimentacion>
+</pc>
